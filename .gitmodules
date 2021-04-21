@@ -1,0 +1,3 @@
+[submodule "projects/0_degrees"]
+	path = projects/0_degrees
+	url = https://github.com/Johnlock1/ai50.git
