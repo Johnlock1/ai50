@@ -1,3 +1,6 @@
 [submodule "projects/0_degrees"]
 	path = projects/0_degrees
 	url = https://github.com/Johnlock1/ai50.git
+[submodule "ai50/projects/2020/x/degrees"]
+	path = ai50/projects/2020/x/degrees
+	url = https://github.com/me50/Johnlock1.git
